@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VarshaVani – Hyperlocal Monsoon Onset & Break Prediction (SIH PS 26086)
 
 Frontend-only, demo-ready prototype. It gives farmers and extension officers a 1–4 week **probabilistic** outlook for monsoon onset, dry spells (breaks) and heavy rain at block level, and turns it into crop-specific advice in English, हिंदी and मराठी.
@@ -138,3 +139,6 @@ The highest-severity match is the primary action; other matches appear under "Al
 ## Security notes
 
 The mock auth and route guards are client-side only and must not be used in production. There are no network endpoints. CSV export neutralises spreadsheet formula injection.
+=======
+# VarshaVani
+>>>>>>> 102a5aa882c213b321ddb7dd3202a99f81298345
